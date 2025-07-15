@@ -31,19 +31,6 @@ msgstr ""
 msgid "%s (observed)"
 msgstr ""
 
-<<<<<<< HEAD
-#. %s (estimated).
-#, c-format
-msgid "%s (estimated)"
-msgstr ""
-
-#. %s (observed, estimated).
-#, c-format
-msgid "%s (observed, estimated)"
-msgstr ""
-
-=======
->>>>>>> upstream/dev
 #. New Year's Day.
 msgid "New Year's Day"
 msgstr ""
@@ -72,17 +59,11 @@ msgstr ""
 msgid "Bounty Day"
 msgstr ""
 
-<<<<<<< HEAD
-msgid "King's Birthday"
-msgstr ""
-
-=======
 #. King's Birthday.
 msgid "King's Birthday"
 msgstr ""
 
 #. Queen's Birthday.
->>>>>>> upstream/dev
 msgid "Queen's Birthday"
 msgstr ""
 
@@ -94,24 +75,25 @@ msgstr ""
 msgid "Thanksgiving Day"
 msgstr ""
 
-<<<<<<< HEAD
-#. Boxing Day.
-msgid "Boxing Day"
-msgstr ""
-
-=======
->>>>>>> upstream/dev
 #. Christmas Day.
 msgid "Christmas Day"
 msgstr ""
 
-<<<<<<< HEAD
-=======
 #. Boxing Day.
 msgid "Boxing Day"
 msgstr ""
 
->>>>>>> upstream/dev
 #. National Day of Mourning for Queen Elizabeth II.
 msgid "National Day of Mourning for Queen Elizabeth II"
 msgstr ""
+
+#~ msgid "Sovereign's Birthday"
+#~ msgstr ""
+
+#, c-format
+#~ msgid "%s (estimated)"
+#~ msgstr ""
+
+#, c-format
+#~ msgid "%s (observed, estimated)"
+#~ msgstr ""
