@@ -9,7 +9,7 @@ specific date is a holiday as fast and flexible as possible.
   <tr>
     <td>PyPI</td>
     <td>
-      <a href="https://pypi.org/project/holidays"><img src="https://img.shields.io/pypi/dm/holidays?color=41B5BE&style=flat" alt="PyPI downloads"></a>&nbsp;<a href="https://pypi.org/project/holidays"><img src="https://img.shields.io/pypi/v/holidays?color=41B5BE&label=version&style=flat" alt="PyPI version"></a>&nbsp;<a href="https://github.com/vacanza/holidays/releases"><img src="https://img.shields.io/github/release-date/vacanza/holidays?color=41B5BE&style=flat" alt="PyPI release date"></a>
+      <a href="https://pypi.org/project/holidays"><img src="https://img.shields.io/badge/dynamic/yaml?url=https%3A%2F%2Fraw.githubusercontent.com%2Fvacanza%2Faux%2Frefs%2Fheads%2Fmain%2Fbadges%2Fdownloads%2Fpepy.tech.yaml&query=%24.monthly_downloads_human&suffix=%2Fmonth&style=flat&label=downloads&color=41B5BE&cacheSeconds=86400" alt="PyPI monthly downloads"></a>&nbsp;<a href="https://pypi.org/project/holidays"><img src="https://img.shields.io/pypi/v/holidays?color=41B5BE&label=version&style=flat" alt="PyPI version"></a>&nbsp;<a href="https://github.com/vacanza/holidays/releases"><img src="https://img.shields.io/github/release-date/vacanza/holidays?color=41B5BE&style=flat" alt="Latest release date"></a>
     </td>
   </tr>
   <tr>
@@ -105,7 +105,7 @@ and detailed information.
 
 ## Available Countries
 
-We currently support 224 country codes. The standard way to refer to a country is by using its [ISO
+We currently support 235 country codes. The standard way to refer to a country is by using its [ISO
 3166-1 alpha-2 code](https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes), the same used
 for domain names, and for a subdivision its [ISO 3166-2
 code](https://en.wikipedia.org/wiki/ISO_3166-2). Some countries have common or foreign names or
@@ -315,6 +315,13 @@ any) in brackets, available languages and additional holiday categories. All cou
 <td></td>
 </tr>
 <tr>
+<td>Bhutan</td>
+<td>BT</td>
+<td>Administrative Subdivisions: 11 (Paro), 12 (Chhukha), 13 (Haa), 14 (Samtse), 15 (Thimphu), 21 (Tsirang), 22 (Dagana), 23 (Punakha), 24 (Wangdue Phodrang), 31 (Sarpang), 32 (Trongsa), 33 (Bumthang), 34 (Zhemgang), 41 (Trashigang), 42 (Monggar), 43 (Pema Gatshel), 44 (Lhuentse), 45 (Samdrup Jongkhar), GA (Gasa), TY (Trashi Yangtse)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>Bolivia</td>
 <td>BO</td>
 <td>Departments: B (El Beni), C (Cochabamba), H (Chuquisaca), L (La Paz), N (Pando), O (Oruro), P (Potosí), S (Santa Cruz), T (Tarija)</td>
@@ -381,7 +388,7 @@ any) in brackets, available languages and additional holiday categories. All cou
 <td>Burundi</td>
 <td>BI</td>
 <td></td>
-<td></td>
+<td>en_US, <strong>fr_BI</strong></td>
 <td></td>
 </tr>
 <tr>
@@ -588,6 +595,13 @@ any) in brackets, available languages and additional holiday categories. All cou
 <td></td>
 </tr>
 <tr>
+<td>Eritrea</td>
+<td>ER</td>
+<td></td>
+<td></td>
+<td>GOVERNMENT</td>
+</tr>
+<tr>
 <td>Estonia</td>
 <td>EE</td>
 <td></td>
@@ -672,6 +686,13 @@ any) in brackets, available languages and additional holiday categories. All cou
 <td></td>
 </tr>
 <tr>
+<td>Gambia</td>
+<td>GM</td>
+<td></td>
+<td><strong>en_GM</strong>, en_US</td>
+<td></td>
+</tr>
+<tr>
 <td>Georgia</td>
 <td>GE</td>
 <td></td>
@@ -681,7 +702,7 @@ any) in brackets, available languages and additional holiday categories. All cou
 <tr>
 <td>Germany</td>
 <td>DE</td>
-<td>Lands: BB (Brandenburg), BE (Berlin), BW (Baden-Württemberg), BY (Bayern), HB (Bremen), HE (Hessen), HH (Hamburg), MV (Mecklenburg-Vorpommern), NI (Niedersachsen), NW (Nordrhein-Westfalen), RP (Rheinland-Pfalz), SH (Schleswig-Holstein), SL (Saarland), SN (Sachsen), ST (Sachsen-Anhalt), TH (Thüringen)</td>
+<td>States: BB (Brandenburg), BE (Berlin), BW (Baden-Württemberg), BY (Bayern), HB (Bremen), HE (Hessen), HH (Hamburg), MV (Mecklenburg-Vorpommern), NI (Niedersachsen), NW (Nordrhein-Westfalen), RP (Rheinland-Pfalz), SH (Schleswig-Holstein), SL (Saarland), SN (Sachsen), ST (Sachsen-Anhalt), TH (Thüringen); cities: Augsburg</td>
 <td><strong>de</strong>, en_US, th, uk</td>
 <td>CATHOLIC</td>
 </tr>
@@ -756,6 +777,13 @@ any) in brackets, available languages and additional holiday categories. All cou
 <td></td>
 </tr>
 <tr>
+<td>Guinea-Bissau</td>
+<td>GW</td>
+<td></td>
+<td>en_US, <strong>pt_GW</strong></td>
+<td></td>
+</tr>
+<tr>
 <td>Guyana</td>
 <td>GY</td>
 <td></td>
@@ -817,6 +845,13 @@ any) in brackets, available languages and additional holiday categories. All cou
 <td></td>
 <td>en_US, <strong>fa_IR</strong></td>
 <td></td>
+</tr>
+<tr>
+<td>Iraq</td>
+<td>IQ</td>
+<td></td>
+<td><strong>ar</strong>, en_US</td>
+<td>CHRISTIAN, HEBREW, SABIAN, YAZIDI</td>
 </tr>
 <tr>
 <td>Ireland</td>
@@ -896,6 +931,13 @@ any) in brackets, available languages and additional holiday categories. All cou
 <td>HINDU, ISLAMIC</td>
 </tr>
 <tr>
+<td>Kiribati</td>
+<td>KI</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>Kuwait</td>
 <td>KW</td>
 <td></td>
@@ -933,6 +975,13 @@ any) in brackets, available languages and additional holiday categories. All cou
 <tr>
 <td>Lesotho</td>
 <td>LS</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Liberia</td>
+<td>LR</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1330,6 +1379,13 @@ any) in brackets, available languages and additional holiday categories. All cou
 <td></td>
 </tr>
 <tr>
+<td>Rwanda</td>
+<td>RW</td>
+<td></td>
+<td>en_US, fr, <strong>rw</strong></td>
+<td></td>
+</tr>
+<tr>
 <td>Saint Barthélemy</td>
 <td>BL</td>
 <td>Can also be loaded as country FR, subdivision BL</td>
@@ -1470,6 +1526,13 @@ any) in brackets, available languages and additional holiday categories. All cou
 <td></td>
 </tr>
 <tr>
+<td>South Georgia and the South Sandwich Islands</td>
+<td>GS</td>
+<td></td>
+<td><strong>en_GS</strong>, en_US</td>
+<td></td>
+</tr>
+<tr>
 <td>South Korea</td>
 <td>KR</td>
 <td></td>
@@ -1517,6 +1580,13 @@ any) in brackets, available languages and additional holiday categories. All cou
 <td>Cantons: AG (Aargau), AI (Appenzell Innerrhoden), AR (Appenzell Ausserrhoden), BE (Bern, Berne), BL (Basel-Landschaft), BS (Basel-Stadt), FR (Freiburg, Fribourg), GE (Genève), GL (Glarus), GR (Graubünden, Grigioni, Grischun), JU (Jura), LU (Luzern), NE (Neuchâtel), NW (Nidwalden), OW (Obwalden), SG (Sankt Gallen), SH (Schaffhausen), SO (Solothurn), SZ (Schwyz), TG (Thurgau), TI (Ticino), UR (Uri), VD (Vaud), VS (Valais, Wallis), ZG (Zug), ZH (Zürich)</td>
 <td><strong>de</strong>, en_US, fr, it, uk</td>
 <td>HALF_DAY, OPTIONAL</td>
+</tr>
+<tr>
+<td>Syrian Arab Republic</td>
+<td>SY</td>
+<td></td>
+<td><strong>ar</strong>, en_US</td>
+<td></td>
 </tr>
 <tr>
 <td>Taiwan</td>
@@ -1587,6 +1657,13 @@ any) in brackets, available languages and additional holiday categories. All cou
 <td></td>
 <td>en_US, <strong>tr</strong>, uk</td>
 <td>HALF_DAY</td>
+</tr>
+<tr>
+<td>Turkmenistan</td>
+<td>TM</td>
+<td></td>
+<td>en_US, ru, <strong>tk</strong></td>
+<td></td>
 </tr>
 <tr>
 <td>Turks and Caicos Islands</td>

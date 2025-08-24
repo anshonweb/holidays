@@ -1,3 +1,48 @@
+# Version 0.79
+
+Released August 18, 2025
+
+- Add Bhutan holidays (#2635 by @Prateekshit73, @arkid15r, @code-with-aneesh, @KJhellico, @prateekshit-v)
+- Add Gambia holidays (#2777 by @kritibirda26, @arkid15r)
+- Add Guinea-Bissau holidays (#2776 by @kritibirda26, @arkid15r, @KJhellico)
+- Add Iraq holidays (#2763 by @kritibirda26, @arkid15r)
+- Add Kiribati holidays (#2778 by @kritibirda26, @arkid15r)
+- Add Liberia holidays (#2774 by @kritibirda26)
+- Add South Georgia and the South Sandwich Islands holidays (#2761 by @tr33k)
+- Add Syrian Arab Republic holidays (#2791 by @Wasif-Shahzad)
+- Add Turkmenistan holidays (#2757 by @Wasif-Shahzad)
+- Update Azerbaijan holidays: fix observed Islamic holidays (#2822 by @KJhellico, @arkid15r)
+- Update Bahrain holidays (#2784 by @KJhellico)
+- Update Bhutan holidays: reference link archival (#2795 by @PPsyrius)
+- Update Canada holidays: adjust introduction year of National Aboriginal Day in NT (#2804 by @KJhellico)
+- Update Chile holidays: abolition of Dec 31 bank holiday (#2793 by @mbfarah)
+- Update Chile holidays: add special holidays (#2798 by @mbfarah)
+- Update Ethiopia holidays, add `ETHIOPIAN_CALENDAR` support, Julian Date Drift adjustment pre-1899 and post-2099 (#2794 by @PPsyrius)
+- Update Turkmenistan holidays (#2785 by @KJhellico)
+- Update badges: add downloads badge temporary fix (#2817 by @arkid15r)
+- Update pre-commit: add pyproject-fmt (#2814 by @arkid15r)
+- Update release notes generator (#2802 by @KJhellico)
+- Add `HolidayBase::is_weekend` method (#2780 by @KJhellico, @arkid15r)
+- Implement confirmed years range support for custom calendars (#2759 by @KJhellico, @arkid15r)
+- Remove setup.py (#2823 by @arkid15r)
+- Split tests/test_holiday_groups.py (#2803 by @arkid15r)
+
+# Version 0.78
+
+Released August 4, 2025
+
+- Add Pitcairn Islands holidays (#2704 by @Harshil-Gupta, @arkid15r, @KJhellico, @PPsyrius)
+- Update Egypt holidays (#2742 by @KJhellico)
+- Update Egypt holidays: update remaining .po files changes (#2748 by @PPsyrius)
+- Update Germany holidays: add Augsburg Peace Festival for Augsburg (#2750 by @PPsyrius)
+- Update Indonesia holidays: add August 18, 2025 holiday (#2773 by @KJhellico)
+- Update Luxembourg holidays: add bank holidays (#2751 by @KJhellico)
+- Update Pakistan holidays: 2025 Ashura and Eid al-Adha dates (#2746 by @PPsyrius)
+- Update Saudi Arabia holidays (#2753 by @KJhellico, @arkid15r)
+- Update docstrings of public classes and methods (#2754 by @KJhellico)
+- Add Python 3.14 (beta) to CI/CD (#2650 by @PPsyrius, @arkid15r)
+- Input handling improvements for `get_nth_working_day` (#2770 by @PPsyrius)
+
 # Version 0.77
 
 Released July 21, 2025
